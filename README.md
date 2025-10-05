@@ -1,31 +1,56 @@
-# 👋 Hey, I'm Aarish Mansur  
+<!-- Profile Header -->
+<h1 align="center">Hey 👋, I'm Aarish Mansur</h1>
+<h3 align="center">💻 Myself Aarish, 20yr — trying to learn Tech.</h3>
 
-**Myself Aarish, 20yr — trying to learn Tech.**  
-
----
-
-## 🧠 Tech Stack  
-**Languages & Tools:**  
-`JavaScript` | `TypeScript` | `Python` | `C` | `C++`  
-`React` | `Node.js` | `Express` | `GraphQL` | `MongoDB`  
-`HTML5` | `CSS` | `VS Code` | `Git`
+<p align="center">
+  <img src="https://media.giphy.com/media/26Ff6qvHtZqKz7bXK/giphy.gif" width="200">
+</p>
 
 ---
 
-## 🛠️ Projects & Technologies Used  
-Here’s a quick overview of what I use across my projects:  
-- **Frontend:** React, HTML5, CSS, TypeScript  
-- **Backend:** Node.js, Express, GraphQL  
-- **Database:** MongoDB  
-- **Other Tools:** Git, VS Code  
+### 🧠 Tech Stack  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,c,cpp,react,nodejs,graphql,express,mongodb,html,css,vscode,git&theme=dark" />
+</p>
 
 ---
 
-## 🔗 Connect with Me  
-- 📝 [Medium](https://medium.com/)  
-- 💼 [LinkedIn](https://linkedin.com/)  
-- 🐦 [X (Twitter)](https://x.com/)
+### 🛠️ Projects & Technologies Used  
+
+| Area | Technologies |
+|------|---------------|
+| 🖥️ **Frontend** | React, HTML5, CSS, TypeScript |
+| ⚙️ **Backend** | Node.js, Express, GraphQL |
+| 🧩 **Database** | MongoDB |
+| 🛠️ **Tools** | Git, VS Code |
 
 ---
 
-> *Learning never stops — building one line of code at a time.*
+### ⚡ GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AarishMansur&show_icons=true&theme=tokyonight" alt="Aarish's GitHub stats" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AarishMansur&layout=compact&theme=tokyonight" height="160px"/>
+</p>
+
+---
+
+### 🔗 Connect with Me  
+<p align="center">
+  <a href="https://medium.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-%23000000.svg?&style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/" target="_blank">
+    <img src="https://img.shields.io/badge/X (Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
+</p>
+
+<h4 align="center">✨ Learning. Building. Evolving. ✨</h4>
