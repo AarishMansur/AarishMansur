@@ -1,10 +1,6 @@
 # Hey there, I'm Aarish Mansur 👋  
 ### `Turning logic into language, and code into emotion.`  
 
-💡 **B.Tech student at Modi Institute of Technology** | **AI & Data Science Major**  
-🚀 Passionate about building systems that *think, learn, and feel.*  
-🧠 Currently mastering **DSA**, **MERN Stack**, and diving deep into **Web3**.  
-⚙️ Exploring the intersection of **mental health, creativity, and artificial intelligence.**  
 
 ---
 
@@ -30,20 +26,11 @@
 
 ---
 
-## 🧠 Current Goals
-- 🌟 Master **Data Structures & Algorithms**
-- ⚛️ Build projects using the **MERN Stack**
-- 🌍 Learn **Web3** and understand blockchain fundamentals  
-- 🇩🇪 Learn the **German language**
-- 🧘 Build an AI system that detects early signs of mental health crises
 
 ---
+### 📈 Contribution Graph  
+[![Aarish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AarishMansur&theme=github-compact)](https://github.com/AarishMansur/github-readme-activity-graph)
 
-## 🧬 Featured Interests
-- ✍️ Writing **poetry** and **stories** that breathe emotion into logic  
-- 🤸‍♂️ Practicing **calisthenics** for strength & discipline  
-- 🥋 Learning **martial arts**  
-- 🌑 Exploring the **psychology of creativity** and the **subconscious mind**
 
 ---
 
