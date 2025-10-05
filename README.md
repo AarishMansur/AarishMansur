@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">Hey 👋, I'm Aarish Mansur</h1>
+<h1 align="center">Hey !!!</h1>
 <h3 align="center">💻 Myself Aarish, 20yr — trying to learn Tech.</h3>
 
 <p align="center">
