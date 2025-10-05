@@ -33,6 +33,8 @@
 
 
 ---
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AarishMansur&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 
 ## 📊 GitHub Stats
 ![Aarish's GitHub stats](https://github-readme-stats.vercel.app/api?username=AarishMansur&show_icons=true&theme=tokyonight)  
