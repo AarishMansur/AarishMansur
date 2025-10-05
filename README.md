@@ -3,7 +3,7 @@
 <h3 align="center">💻 Myself Aarish, 20yr — trying to learn Tech.</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aGJ1OG9vNzR5ZjFzNWVubDBmaWtlMTV5YW1seHE4cTB1am9pOTNlayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/8hROtDO2npJNQEiwCX/giphy.gif" width="200">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aGJ1OG9vNzR5ZjFzNWVubDBmaWtlMTV5YW1seHE4cTB1am9pOTNlayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/8hROtDO2npJNQEiwCX/giphy.gif" width="500">
 </p>
 
 ---
