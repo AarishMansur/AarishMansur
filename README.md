@@ -33,20 +33,12 @@
 
 
 ---
-[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AarishMansur&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
-## 📊 GitHub Stats
-![Aarish's GitHub stats](https://github-readme-stats.vercel.app/api?username=AarishMansur&show_icons=true&theme=tokyonight)  
-[![GitHub Streak](https://streak-stats.demolab.com?user=AarishMansur&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
-## 🏆 Achievements & Projects
-- 🧩 Participated in **Pixel Palette Hackathon (IEEE RAS MUJ 2025)**  
-  - Project: *Subconscious Learning AI* — AI that learns emotional patterns through subconscious interaction  
-- 💻 Built projects around **Mental Health Detection** and **AI-powered UIs**  
-- 🔬 Exploring **AI x Art** — blending pixels, emotion, and intelligence
+
 
 ---
 
