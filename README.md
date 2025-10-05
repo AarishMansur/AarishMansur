@@ -16,14 +16,6 @@
 ---
 
 
-### ⚡ GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AarishMansur&show_icons=true&theme=tokyonight" alt="Aarish's GitHub stats" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AarishMansur&layout=compact&theme=tokyonight" height="160px"/>
-</p>
-
----
-
 ### 🔗 Connect with Me  
 <p align="center">
   <a href="https://medium.com/@aarishmansur" target="_blank">
