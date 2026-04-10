@@ -5,7 +5,6 @@
 
 👨‍💻 **All of my projects are available at** [aarishmansur](https://github.com)
 
-⚡ **Fun fact** Debugging is just being a detective in a movie where you are also the murderer.
 
 
 
