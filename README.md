@@ -3,7 +3,7 @@
 
 📫 **Reach me at** [aarishmansur@gmail.com](mailto:your-email@example.com)
 
-👨‍💻 **All of my projects are available at** [aarishmansur](https://github.com)
+👨‍💻 **All of my projects are available at** [aarishmansur](https://www.aarishmansur.in/project)
 
 
 
