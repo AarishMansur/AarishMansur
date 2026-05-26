@@ -1,4 +1,4 @@
-# Hey  I'm Aarish  your friendly neighborhood coder 🕸️ ̤̮
+# Aarish this side born to be spiderman forced to be a coder  🕸️ ̤̮
 
 
 📫 **Reach me at** [aarishmansur@gmail.com](mailto:your-email@example.com)
